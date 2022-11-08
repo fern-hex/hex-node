@@ -1,14 +1,14 @@
-# {Company} Node Library
+# Hex API Node Library
 
-[![npm shield](https://img.shields.io/npm/v/@fern-api/{company})](https://www.npmjs.com/package/@fern-api/{company})
+[![npm shield](https://img.shields.io/npm/v/@fern-api/hex](https://www.npmjs.com/package/@fern-api/hex)
 
 ## Documentation
 
-API documentation is available at <{docs_url}>.
+API documentation is available at <https://learn.hex.tech/docs/develop-logic/hex-api/api-reference>.
 
 ## Usage
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](TODO)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/edit/typescript-example-using-sdk-built-with-fern-lbqcjk?file=app.ts&view=editor)
 
 ```typescript
 import { TODO } from "TODO";

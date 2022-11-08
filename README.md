@@ -1,6 +1,6 @@
 # Hex API Node Library
 
-[![npm shield](https://img.shields.io/npm/v/@fern-api/hex](https://www.npmjs.com/package/@fern-api/hex)
+[![npm shield](https://img.shields.io/npm/v/@fern-api/hex])(https://www.npmjs.com/package/@fern-api/hex)
 
 ## Documentation
 
